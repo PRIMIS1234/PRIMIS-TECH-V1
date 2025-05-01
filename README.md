@@ -54,7 +54,7 @@ Deploy Easily PRIMIS-TECH-V1
 ### Get Pairing Code ( SESSION ID )
 
 
-[![PRIMIS TECH SESSION](https://img.shields.io/badge/INCONNU%20-XD%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-xd-session-by-inconnu-boy-a1kg.onrender.com/)
+[![PRIMIS TECH SESSION](https://img.shields.io/badge/PRIMIS%20-TECH%20SESSION-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://inconnu-xd-session-by-inconnu-boy-a1kg.onrender.com/)
 ---
 
  Fork This Repository
