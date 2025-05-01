@@ -51,7 +51,7 @@ PRIMIS TECH V1 est votre main invisible sur WhatsApp. Il fait tout ce que vous n
 ## 🚀 Deploy Easily PRIMIS-TECH-V1 ⚡
 
 ### 🔗 Get Pairing Code
-[![Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white)](https://primis-tech-v1-session-by-ds-primis.onrender.com)
+[![Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=codefactor&logoColor=white)](https://inconnu-xd-session-by-inconnu-boy-a1kg.onrender.com/pair)
 
 ---
 ## 📦 Fork This Repository
@@ -135,7 +135,7 @@ PREFIX="."
 ----
 🧠 Workflows File
 
-[![View Workflows](https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=githubactions&logoColor=white)](https://whatsapp.com/channel/0029Vb5fyMc8aKvSYHiIy11g)
+[![View Workflows](https://img.shields.io/badge/View-Workflow%20Codes-FF0076?style=for-the-badge&logo=githubactions&logoColor=white)](https://whatsapp.com/channel/0029Vb6T8td5K3zQZbsKEU1R)
 
 ---
 
