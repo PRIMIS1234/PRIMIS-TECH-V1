@@ -124,7 +124,7 @@ Matrix.ev.on('connection.update', (update) => {
 *Thanks for using PRIMIS TECH V1 ⚡* 
 
 > Join WhatsApp Channel: ⤵️  
-https://whatsapp.com/channel/0029Vb5fyMc8aKvSYHiIy11g
+https://whatsapp.com/channel/0029Vb6T8td5K3zQZbsKEU1R
 
 - *YOUR PREFIX:* = ${prefix}
 
