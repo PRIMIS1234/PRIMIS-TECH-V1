@@ -110,6 +110,25 @@ PRIMIS TECH V1 est votre main invisible sur WhatsApp. Il fait tout ce que vous n
 
 ---
 
+CONFIGURATION (Modify .env File)
+
+SESSION_ID="PRIMIS~TECH~V1~"
+AUTO_READ_STATUS=true
+STATUS_READ_MSG="*Status Seen By PRIMIS-TECH-V1 ⚡*"
+AUTO_STATUS_REPLY=false
+AUTO_REJECT_CALLS=false
+MODE="public"
+WELCOME=false
+AUTO_READ_MESSAGES=false
+AUTO_TYPING=false
+OWNER_NAME="DS PRIMI"
+OWNER_NUMBER="50940938083"
+AUTO_RECORDING=false
+ALWAYS_ONLINE=false
+AUTO_BLOCK=true
+AUTO_REACT=false
+PREFIX="."
+
 ### ⚡ CHANNEL YOUTUBE 
 [![YouTube Channel familly BUTTERFLY 16](https://img.shields.io/badge/YouTube-007BFF?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Butterfly_16_familly)
 
