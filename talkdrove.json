@@ -4,7 +4,7 @@
     "description": "Whiskey Sockets Baileys Whatsapp bot BY DS PRIMIS",
     "logo": "https://files.catbox.moe/mxfazk.jpg",
     "keywords": ["bot"],
-    "documentation-link": "https://primis-tech-v1-session-by-ds-primiw.onrender.com",
+    "documentation-link": "https://inconnu-xd-session-by-inconnu-boy-a1kg.onrender.com",
     "owner-verification": "dsprimis@gmail.com",
   
     "env": {
@@ -90,7 +90,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "50933236188"
+      "value": "50940xxxxxx"
 
     }, 
 
